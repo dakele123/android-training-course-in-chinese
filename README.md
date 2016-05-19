@@ -165,3 +165,7 @@ Google Android团队在2012年的时候开设了**Android Training**板块 - <ht
 
 ## License
 本站作品由<https://github.com/kesenhoo/android-training-course-in-chinese>创作，采用[知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可](http://creativecommons.org/licenses/by-nc-sa/4.0/)协议进行许可。
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dakele123/android-training-course-in-chinese/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
